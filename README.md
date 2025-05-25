@@ -116,6 +116,9 @@ Katkılarınızı memnuniyetle karşılıyoruz!
 
 ## 👨‍💻 Geliştirici
 
+**bayrinat**
+
+forked by:
 **aytekin1111** - İnşaat Mühendisi & Python Developer
 
 - GitHub: aytekin1111(https://github.com/aytekin1111)
@@ -243,10 +246,13 @@ We welcome your contributions!
 
 ## 👨‍💻 Developer
 
-**aytekin1111** - Civil Engineer & Python Developer
+**bayrinat**
 
-- GitHub: [@aytekin1111](https://github.com/aytekin1111)
-- LinkedIn: [Aytekin Naki Cikdi](https://www.linkedin.com/in/aytekin-naki-cikdi-b185bb17)
+forked by:
+**aytekin1111** - İnşaat Mühendisi & Python Developer
+
+- GitHub: aytekin1111(https://github.com/aytekin1111)
+- LinkedIn: https://www.linkedin.com/in/aytekin-naki-cikdi-b185bb17
 
 ## 🙏 Acknowledgments
 
